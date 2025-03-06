@@ -1,0 +1,4 @@
+Este é um artefato inicial para o repositório de Gestão de Configuração.  
+O objetivo deste repositório é armazenar e gerenciar arquivos essenciais para o desenvolvimento de projetos de software.  
+Dessa forma, a equipe pode acessar e modificar documentos de maneira organizada e segura.  
+A utilização de uma ferramenta de gestão de configuração permite melhor controle de versões e colaboração entre os membros do projeto.  
